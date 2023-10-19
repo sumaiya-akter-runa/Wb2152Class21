@@ -1,0 +1,44 @@
+#inline{
+    background-color: blueviolet;
+display: inline;
+padding:15px;
+height: 153px;
+}
+#in-block{
+    background-color: rgb(226, 43, 89);
+    display: inline-block;
+    padding:15px;
+    height: 153px;
+}
+.align{
+width: 50%;
+height: 150px;
+border: 5px solid green;
+margin :auto;
+padding: 100px 100px;
+text-align: center;
+line-height: 200px;
+}
+img{
+display: block;
+margin: auto;
+}
+
+.class{
+    width: 50%;
+    height: 150px;
+    position: relative;
+    border: 6px solid greenyellow;
+}
+.sub-class{
+    height: 100px;
+    width: 50px;
+    position: absolute
+    ;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: auto;
+
+}
